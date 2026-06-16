@@ -1,0 +1,24 @@
+
+{
+	"2":{
+		"2": {"RouteName": "电气#2机组2小时", "PointName": "继保室Relay protection room", "NFCCode": "048670625d6481"}, 
+		"3": {"RouteName": "电气#2机组2小时", "PointName": "直流配电室DC distribution room", "NFCCode": "04029f525d6481"}, 
+		"6": {"RouteName": "电气#2机组2小时", "PointName": "10kV配电室10kV distribution room", "NFCCode": "045f6f625d6481"}, 
+		"7": {"RouteName": "电气#2机组2小时", "PointName": "400V配电室400V distribution room", "NFCCode": "043ece725d6480"}, 
+		"8": {"RouteName": "电气#2机组2小时", "PointName": "发电机出口PT，励磁变，励磁间Generator outlet PT, excitation transformer, excitation room\r\n", "NFCCode": "0499c8225d6480"}, 
+	 	"13": {"RouteName": "电气#2机组2小时", "PointName": "蓄电池室Battery room\r\n", "NFCCode": "048b5e225d6480"}, 
+		"90":{"RouteName": "电气#2机组2小时", "PointName": "保安柴发配电室Security diesel generator power distribution room\r\n", "NFCCode": "04ef6932971190"}
+	},
+	"5":{
+		"1":{"RouteName": "电气#5机组2小时", "PointName": "发电机、封母Generator, seal\r\n", "NFCCode": "04d1c4725d6480"},
+		"2":{"RouteName": "电气#5机组2小时", "PointName": "继保室Relay protection room", "NFCCode": "04db62225d6480"},
+		"3":{"RouteName": "电气#5机组2小时", "PointName": "直流配电室DC distribution room", "NFCCode": "041190fa5c6480"},
+		"4":{"RouteName": "电气#5机组2小时", "PointName": "10kV配电室10kV distribution room", "NFCCode": "045bc0725d6480"},
+		"5":{"RouteName": "电气#5机组2小时", "PointName": "400V配电室400V distribution room", "NFCCode": "045742b25c6480"},
+		"6":{"RouteName": "电气#5机组2小时", "PointName": "发电机出口PT，励磁变，励磁间Generator outlet PT, excitation transformer, excitation room\r\n", "NFCCode": "04d9cd225d6480"},
+		"7":{"RouteName": "电气#5机组2小时", "PointName": "蓄电池室Battery room\r\n", "NFCCode": "04e8ef1a5d6480"},
+		"8":{"RouteName": "电气#5机组2小时", "PointName": "保安柴发配电室Security diesel generator power distribution room\r\n", "NFCCode": "0475af225d6481"},
+		"9":{"RouteName":"电气#5机组2小时", "PointName":"#5除尘配电室#5 Dust removal distribution room", "NFCCode":"04588dfa5c6481"},
+		"10":{"RouteName": "电气#5机组2小时", "PointName": "主变，高厂变，启备变Main transformer, high-voltage transformer, standby transformer\r\n", "NFCCode": "04d3a1525d6480"}
+	}
+}

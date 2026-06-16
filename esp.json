@@ -1,0 +1,9 @@
+
+{	
+	"1":{
+		"1":{"RouteName":"电气#2机组2小时", "PointName":"#1、2除尘配电室#1,2 Dust removal distribution room", "NFCCode":"049aecb25c6480"},
+		"2": {"RouteName": "电气#4机组2小时", "PointName": "#3、4除尘配电室#3,4 Dust removal distribution room\r\n", "NFCCode": "0480ef1a5d6480"},
+		"3":{"RouteName": "电气#5机组2小时", "PointName": "#5除尘配电室#5 Dust removal distribution room\r\n", "NFCCode": "04588dfa5c6481"}
+	}
+}
+

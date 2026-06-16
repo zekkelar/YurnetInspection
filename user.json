@@ -1,0 +1,42 @@
+{
+    "1": {
+        "id": "F10235721",
+        "name": "Fernanda Zekkel Pranadjayaputra",
+        "status":"active"
+
+    },
+    "2": {
+        "id": "F09235476",
+        "name": "Tawakkal Bin Naim",
+        "status":"active"
+    },
+    "4": {
+        "id": "F07235140",
+        "name": "Davit Diego Kudadiri",
+         "status":"active"
+    },
+    "7": {
+        "id": "F05234118",
+        "name": "Wesly Simanungkalit",
+         "status":"active"
+    },
+    "10": {
+        "id": "F01233142",
+        "name": "Adam Harun Alrasyid",
+         "status":"active"
+    },
+    "11": {
+        "id": "F01233155",
+        "name": "Afit Feka Endhika",
+         "status":"active"
+    },
+    "13":{
+	    "id": "F01233198",
+	    "name" : "Muhammad Togar",
+	    "status" : "active"
+    },
+    "14":{
+	    "id":"F07234870",
+	    "name":"Joshua Peter Pandapotan Manullang","status":"active"
+    }
+}
