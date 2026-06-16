@@ -253,8 +253,8 @@ Unit : {self.selectedUnit}
                     print('[+] Unit test, Meyou Inspeksi')
                 else:
                     self.getID(WorkOrderCode, PointCode, self.user[f'{selectedUser}']['id'], self.user[f'{selectedUser}']['name'])
-                    print("hanya test")
-                    #self.inspeksi()
+                    #print("hanya test")
+                    self.inspeksi()
             
             lanjut = input('lnjut? ')
             if lanjut == '':
@@ -436,9 +436,9 @@ Unit : {self.selectedUnit}
             if self.unittest:
                 print(f'{self.get_time()} {self.info()} UNITTEST ')
             else:
-                print('hanya test')
+                #print('hanya test')
                 #pass
-                #self.inspeksi()
+                self.inspeksi()
             print(f'{self.get_time()} {self.info()} Clear cache')
         except Exception as e:
             print(f"{self.get_time()} [{kuning}WARNING{reset}] Error jaringan, msg:")
@@ -627,7 +627,7 @@ def checking():
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='SHADOW CORE - UNLOCKED')
+    parser = argparse.ArgumentParser(description='MESS INSPECTION - UNLOCKED')
     parser.add_argument("-electrical", action="store_true", help="Only electrical inspection")
     parser.add_argument("-auto", action="store_true", help="Automatic Inspection")
     parser.add_argument("-msg", action="store_true", help="If u wanna show message server")
